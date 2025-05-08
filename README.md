@@ -1,2 +1,2 @@
 # MY-5TH-TASK-PRODUCT
-My 5th task is to display some products using HTML and CSS.
+My 5th task is to be product deatail using HTML and CSS.
